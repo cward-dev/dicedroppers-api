@@ -1,0 +1,24 @@
+{
+  "General Info": {
+    "Title": "Placeholder",
+    "Type": "Placeholder",
+    "Status": "Placeholder",
+    "Played By": "Placeholder",
+    "Image Path": "/images/half-orc.jpeg"
+  },
+  "Placeholder Info": {
+    "Aliases": "Placeholder",
+    "Race": "Placeholder",
+    "Class": "Placeholder",
+    "Alignment": "Placeholder",
+    "Homeland": "Placeholder"
+  },
+  "Content": {
+    "null": {
+      "p1": "Placeholder."
+    },
+    "Placeholder": {
+      "p1": "Placeholder."
+    }
+  }
+}
