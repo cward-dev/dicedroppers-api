@@ -1,12 +1,12 @@
 {
-  "GeneralInfo": {
+  "General Info": {
     "Title": "Karst Sunborne",
     "Type": "Player Character",
     "Status": "Alive",
-    "Played_By": "Chris Ward",
-    "Image_Path": "/images/half-orc.jpeg"
+    "Played By": "Chris Ward",
+    "Image Path": "/images/half-orc.jpeg"
   },
-  "CharacterInfo": {
+  "Character Info": {
     "Aliases": "Darklander",
     "Race": "Half-Orc",
     "Class": "Twilight Cleric",
